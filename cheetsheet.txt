@@ -1,2 +1,6 @@
 git init
 Dieser Befehl erstellt ein Git Repository.
+git add
+Dieser Befehl addiert die Version in der Staging area.
+git commit 
+Dieser Befehl stellt die geänderte Version endlich im Repository.
